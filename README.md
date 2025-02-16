@@ -127,7 +127,7 @@ En el backend con Spring Boot. Se definó un servicio REST que:
 
 B) Frontend Web Responsivo
 
-1.- Se desarrolló una interfaz que permite arrastrar y soltar archivos o seleccionarlos desde el disco.
+1.- Se genera interfaz que permite arrastrar y soltar archivos o seleccionarlos desde el disco.
 2.- Visualizar de los archivos generados con sus nombres y tamaños.
 3.- Una pantalla rápida Modal de "Procesando Archivo" mientras se ejecuta la operación.
 
@@ -153,4 +153,3 @@ Asegure que los archivos sean accesibles desde el backend.
     http://localhost:8080/api/files/Foto.0.img
 Si descarga correctamente, el controlador está funcionando.
 
-/---------------------------------fastdid Enjoy-----------------------------------------------/
