@@ -86,7 +86,7 @@ npm install @shadcn/ui tailwindcss postcss autoprefixer
 
 npm run dev
 
-2.6 Se debe Acceder en el navegador(Cualquiera firefox,Edge,Chrome,Brave,etc) a la rura:
+2.6 Se debe Acceder en el navegador(Cualquiera firefox,Edge,Chrome,Brave,etc) a la ruta:
 
    http://localhost:5173/
 
